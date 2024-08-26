@@ -66,8 +66,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## Files in the Repository
 
-- **`bike_sharing.ipynb`**: The main Jupyter Notebook containing the code for data exploration, preprocessing, model training, and evaluation.
-- **`bike_sharing.csv`**: The dataset used for this assignment.
+- **`Linear_Regression_Bike_Sharing_Assignment(AbhishekSinghChauhan).ipynb`**: The main Jupyter Notebook containing the code for data exploration, preprocessing, model training, and evaluation.
+- **`day.csv`**: The dataset used for this assignment.
 - **`README.md`**: This file, providing an overview of the project.
 
 ## How to Run
